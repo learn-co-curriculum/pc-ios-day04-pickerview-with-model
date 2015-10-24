@@ -1,8 +1,10 @@
 tags:
   - UIPickerview
-  -UIAnimation
-  -Disappear
+  - UIAnimation
+  - Disappear
 languages:
   - swift
+level:
+2
 type:
   - lab
