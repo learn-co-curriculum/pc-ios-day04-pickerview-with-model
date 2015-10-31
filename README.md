@@ -2,6 +2,10 @@
 
 This App we will be creating *SnapFacts* — a combination of our Funfacts App and SnapChat.
 
+##AWW SNAP##
+![snap](http://i.giphy.com/rNAzrokXXIeR2.gif)
+
+
 + **Here are the Specs:**
   * Create a Single View Application in XCode
   * Create a Facts.swift file to create a Fact class.  Your fact class should include two properties, content and        category, and an init function that sets those two properties.
