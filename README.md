@@ -18,6 +18,6 @@ This App we will be creating *SnapFacts* — a combination of our Funfacts App a
   * The *Snap*: See if you can write a method to have your Facts dissapear after a certain period of time.  Hint:        Check out the
  
 
-+ *Fork this repo to check out the SnapFacts solution with a UIPicker and a Facts model.* 
+*Instructions: First, follow the directions above to try to build the app on your own.  Second, fork this repo to check out the SnapFacts solution with a UIPicker and a Facts model.* 
 
 
