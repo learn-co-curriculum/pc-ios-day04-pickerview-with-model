@@ -21,3 +21,5 @@ This App we will be creating *SnapFacts* — a combination of our Funfacts App a
 *Instructions: First, follow the directions above to try to build the app on your own.  Second, fork this repo to check out the SnapFacts solution with a UIPicker and a Facts model.* 
 
 
+
+<a href='https://learn.co/lessons/pc-ios-day04-pickerview-with-model' data-visibility='hidden'>View this lesson on Learn.co</a>
