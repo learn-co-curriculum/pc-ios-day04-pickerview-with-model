@@ -22,4 +22,4 @@ This App we will be creating *SnapFacts* — a combination of our Funfacts App a
 
 
 
-<a href='https://learn.co/lessons/pc-ios-day04-pickerview-with-model' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/pc-ios-day04-pickerview-with-model' title='SnapFacts Solution'>SnapFacts Solution</a> on Learn.co and start learning to code for free.</p>
